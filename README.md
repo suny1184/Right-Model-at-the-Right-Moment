@@ -1,8 +1,11 @@
 # Right-Model-at-the-Right-Moment
 
-I will go over pros and cons of several models and the best cases(datasets/purposes) for those models. The machine learning algorithms are:
-1) Random Forest
-2) Principal Component Analysis(PCA)
-3) Support Vector Machines
-4) Naive Bayes
-5) Neural Networks
+When you look at machine learning algorithms, there is no one solution or one approach that fits all. There are several factors that can affect your decision to choose a machine learning algorithm.
+
+Thus, we will look at some of the factors that can help us narrow down the search for the machine learning models based on what problems we have. We will go over cons/pros of some models. Also, we will see some of their differences to each other and the bad case(bad dataset) to use a specific model.
+
+1. Factors that categorize the ML problem
+2. Logistic Regression vs Naive Bayes
+3. Decision Trees vs Neural Networks
+4. Random Forest
+5. K-Means Clustering
